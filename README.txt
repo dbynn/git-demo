@@ -8,8 +8,10 @@ just random stuff to update
 
 
 ## Website Contents
-List out web site contents
 
+Here are the files inthe website
+
+1. index.html
 
 
 
